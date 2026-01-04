@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/12bA4NJkc1MDNDs6ZD42Vzy
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08b40134-d172-4e04-8648-1fe3307efac1/deploy-status)](https://app.netlify.com/projects/1chartxo/deploys)
